@@ -4,8 +4,6 @@ Here’s a detailed and well-structured `README.md` file for your GitHub reposit
 
 # Memristors: The Fourth Fundamental Circuit Element
 
-![Memristor Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Memristor_Symbols.svg/800px-Memristor_Symbols.svg.png)
-
 ## Overview
 This repository contains the presentation and documentation related to **Memristors** — a non-volatile memory technology that has the potential to revolutionize modern electronics, neuromorphic computing, and AI hardware.
 
